@@ -7,6 +7,8 @@ public class health {
 		 int id =232;
 		 System.out.println("ravi raju  is best  friends ");
 		 System.out.println("it is very imp");
+		 String ceo;
+		 String location;
 		
 
 	}
