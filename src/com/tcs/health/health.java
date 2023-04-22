@@ -27,7 +27,7 @@ public class health {
 
 	 //Bug fix-100: line of code 1200
 	 public String msg100() {
-		 String msg="code fix for bug-100";
+		 String msg="code fix for bug-100 by Ravi";
 		 return msg;
 	 }
    
