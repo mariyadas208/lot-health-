@@ -45,7 +45,9 @@ public class health {
 		 public String msg102() {
 			 String msg="code fix for bug-100 by Ravi";
 			 return msg;
+			 
 		 }
+
 
 	 
  //Bug fix-105: line of code 1200
@@ -53,4 +55,15 @@ public class health {
 			 String msg="code fix for bug-101 by Ravi";
 			 return msg;
 		 }
+
+		//Bug fix -103:line of code 1320
+		    public String msg103() {
+		    	System.out.println("hello world how are you ");
+				return null; 
+		    	
+		    }
+		    
+
+
 }
+  
