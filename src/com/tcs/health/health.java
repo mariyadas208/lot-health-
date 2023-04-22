@@ -48,5 +48,9 @@ public class health {
 		 }
 
 	 
-
+ //Bug fix-105: line of code 1200
+		 public String msg105() {
+			 String msg="code fix for bug-101 by Ravi";
+			 return msg;
+		 }
 }
