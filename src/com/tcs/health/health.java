@@ -14,9 +14,9 @@ public class health {
 
 		 String ceo;
 		 String location;
-		
-
+		 
 	}
+
 
 	//Bug fix-200
 	public String msg200() {
@@ -24,4 +24,13 @@ public class health {
 		return msg;
 	}
 	
+
+	 //Bug fix-100: line of code 1200
+	 public String msg100() {
+		 String msg="code fix for bug-100";
+		 return msg;
+	 }
+   
+	 
+
 }
