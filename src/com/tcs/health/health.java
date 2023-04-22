@@ -33,6 +33,11 @@ public class health {
 		 return msg;
 	 }
    
+	//Bug fix-102: line of code 1300
+		 public String msg102() {
+			 String msg="code fix for bug-100 by Ravi";
+			 return msg;
+		 }
 	 
 
 }
