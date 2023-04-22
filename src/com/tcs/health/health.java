@@ -9,7 +9,7 @@ public class health {
 
 		 System.out.println("ravi raju  is best ");
 
-		 System.out.println("it is very imp for me");
+		 System.out.println("it is very imp for ");
 		 String ceo;
 		 String location;
 		
