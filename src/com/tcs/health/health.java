@@ -65,6 +65,11 @@ public class health {
 				return null; 
 		    	
 		    }
+		  //Bug fix -103:line of code 1320
+		    public String msg106() {
+
+		    	System.out.println("mango is fruit ");
+
 		    
 
 
