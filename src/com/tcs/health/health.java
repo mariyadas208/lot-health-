@@ -59,9 +59,9 @@ public class health {
 		//Bug fix -103:line of code 1320
 		    public String msg103() {
 
-		    	System.out.println("hello world how are you it very for me  ");
+		    	System.out.println("hello world   ");
 
-		    	System.out.println("hello world how are you it very imp");
+		    	System.out.println("hello  very imp");
 
 		    	
 				return null; 
